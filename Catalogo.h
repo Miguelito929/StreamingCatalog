@@ -1,6 +1,3 @@
-// Alejandra Velasco Zárate A01635453
-// Miguel Ángel Pérez Granados A01252536
-
 #ifndef CATALOGO_H
 #define CATALOGO_H
 #include "Serie.h"
