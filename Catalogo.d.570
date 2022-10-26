@@ -1,0 +1,1 @@
+Catalogo.o: Catalogo.cpp Catalogo.h Serie.h Video.h Episodio.h Pelicula.h
