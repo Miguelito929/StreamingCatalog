@@ -1,6 +1,3 @@
-// Alejandra Velasco Zárate A01635453
-// Miguel Ángel Pérez Granados A01252536
-
 #ifndef EPISODIO_H
 #define EPISODIO
 #include <iostream>
@@ -26,37 +23,3 @@ class Episodio{
 };
 
 #endif
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-
-#ifndef EPISODIO_H
-#define EPISODIO
-#include "Video.h"
-
-class Episodio: public Video{
-  public:
-    Episodio();
-    Episodio(int,string,int);
-    int getNum() const;
-    void setNum(int);
-    void imprime() override;
-
-  private:
-    int duracion,num;
-    string nombre;
-};
-
-#endif
-
-*/
